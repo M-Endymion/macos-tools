@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/M-Endymion/macos-tools/main/thumbnail.png" alt="macOS Tools Banner" />
+</div>
+
+<br>
 # MacOS Scripts
 
 This folder contains enterprise-focused scripts for **macOS provisioning, hardening, compliance, and management**.
