@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/M-Endymion/macos-tools/main/thumbnail-macos.png" alt="macOS Tools Banner" />
+  <img src="https://raw.githubusercontent.com/M-Endymion/macos-tools/main/thunbnail-macos.png" alt="macOS Tools Banner" />
 </div>
 
 <br>
