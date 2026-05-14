@@ -3,6 +3,7 @@
 </div>
 
 <br>
+
 # MacOS Scripts
 
 This folder contains enterprise-focused scripts for **macOS provisioning, hardening, compliance, and management**.
